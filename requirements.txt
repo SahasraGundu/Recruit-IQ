@@ -30,17 +30,4 @@ openpyxl==3.1.2
 secure-smtplib 
 python-docx
 
-# RAG additions
-# chromadb
-# sentence-transformers
-# langchain
-# langchain-groq
-# langchain-community
 
-
-chromadb==0.4.24
-protobuf==3.20.3
-sentence-transformers
-langchain
-langchain-groq
-langchain-community
